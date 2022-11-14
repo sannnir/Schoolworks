@@ -5,8 +5,8 @@ Schooltasks of Configuration Management Systems
 
 ## a) Tee tehtävän raportti Markdwonina.
 Tämä kotitehtävä on osa Tero Karvisen palvelinten hallinta (Configuration Management Systems) -kurssia.
-Kotitehtävät on toteutettu Virtual Box:iin (Versio 6.1)asennetulla Ubuntun käyttöjärjestelmällä (versio 22.04.1).
-Tehtevät on tehty 11.11.2022 ja lähteinä on käytetty luennolla hyödynnettyjä muistiinpanoja.
+Kotitehtävät on toteutettu Virtual Box:iin (Versio 6.1) asennetulla Ubuntun käyttöjärjestelmällä (versio 22.04.1).
+Tehtävät on tehty 11.11.2022 ja lähteinä on käytetty luennolla hyödynnettyjä muistiinpanoja.
 Tehtävä tehdään MarkDownilla ja julkaistaan GitHubissa.
 
 
@@ -45,7 +45,7 @@ sähköpostiosoite:
 
 <img width="294" alt="1" src="https://user-images.githubusercontent.com/117899949/201630764-aa57c9ca-dc3c-4450-b445-e759ed7e17bf.png">
 	
-Kun tämä on määritelty , niin päästään kokeilemaan uudelleen committia.
+Kun tämä on määritelty, niin päästään kokeilemaan uudelleen committia.
 
 	git commit
 
@@ -63,7 +63,8 @@ Komento on
 ## c) Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset 'git reset --hard'
 Tämä tehtävä ei lukeutunut suosikkeihini, koska onnistuin yrityksestä huolimatta poistamaan puolet tehdystä raportista.
 Argh.
-Ennen kun alotin tekemään tehtävää, aavistin onneksi, että joku voi mennä pieleen ja teinkin kopion tästä rapostista
+Ennen kun alotin tekemään tehtävää, aavistin onneksi, että joku voi mennä pieleen ja teinkin kopion tästä raportista. 
+Onneksi siis sain sieltä rapsan tekstit pelastettua.
 
 	cp <source> <destination>
 
@@ -82,7 +83,7 @@ Huh. Tällä kertaa homma meni maaliin, ja raportista poistuivat vain väärät 
 Loin GitHubiin projektin nimeltä "Catcarproject", jonne luotiin valmiiksi README.md-tiedosto sekä lisenssiksi valittiin GNU General Public License v3.0
 
 ## e) Kloonaa edellisessa kohdassa tehty varasto itsellesi, tee muutoksia, puske ne palvelimelle ja näytä, että ne ilmestyvät webbiliittymään.
-Ensin luodaan avain
+Ensin luodaan salausavain
 
 	ssh-keygen
 
@@ -108,7 +109,7 @@ Alla komennot:
 
 	cd CatcarProject/
 
-	Tehdään muokkauksia. Kirjoitin dokumenttiin "making changes here"
+	Tehdään muokkauksia. Kirjoitin defaultdokumenttiin "making changes here"
 
 	git add .
 	git commit
