@@ -6,7 +6,7 @@ Schooltasks of Configuration Management Systems
 ## a) Tee tehtävän raportti Markdwonina.
 Tämä kotitehtävä on osa Tero Karvisen palvelinten hallinta (Configuration Management Systems) -kurssia.
 Kotitehtävät on toteutettu Virtual Box:iin (Versio 6.1) asennetulla Ubuntun käyttöjärjestelmällä (versio 22.04.1).
-Tehtävät on tehty 11.11.2022 ja lähteinä on käytetty luennolla hyödynnettyjä muistiinpanoja.
+Tehtävät on tehty 14.11.2022 ja lähteinä on käytetty luennolla hyödynnettyjä muistiinpanoja.
 Tehtävä tehdään MarkDownilla ja julkaistaan GitHubissa.
 
 
